@@ -43,7 +43,7 @@ function draw() {
       Score++;
       CroudGroup.pop();
     }
-    if(Score==100){
+    if(Score==100){ 
       gameState=END;
     }
   }
